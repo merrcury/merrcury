@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+_Senior Year Student at Kurukshetra University_
+
 
 <a href="https://twitter.com/_mercurybuddy">
   <img align="left" alt="Himanshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -31,7 +33,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Himanshu's DEV Blog" height="27px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 
-<img align="right" width="500" src="./icon.png">
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<img align="right" width="300" src="./icon.png">
 
 ``` python3
 class aboutme:
@@ -39,3 +43,4 @@ class aboutme:
     self.name = "Himanshu Garg"
     self.nickname = "Mercury"
     self.pronouns = ["He", "Him"]
+```
