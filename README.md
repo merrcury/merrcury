@@ -33,8 +33,8 @@ _Senior Year Student at Kurukshetra University_
   <img align="left" alt="Himanshu's DEV Blog" height="27px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
 <img align="right" width="300" src="./icon.png">
 
 ``` python3
@@ -42,5 +42,22 @@ class aboutme:
   def __init__(self):
     self.name = "Himanshu Garg"
     self.nickname = "Mercury"
-    self.pronouns = ["He", "Him"]
+    self.pronouns = ("He", "Him")
+  def stack(self):
+    self.languages = ["Python 3", "Bash", "NoSQL"]
+    self.tools = ["Docker", "GIT", "JMeter", "Unity 3D", "Vuforia Engine"]
+    self.DevOps = {
+      "Deployment" : {
+        "Virtual Machines" : ["Azure Virtual Machine", "Digital Ocean Droplets", 
+                                         "Google Compute Engine", "Amazon EC2"],
+        "Container Service" : ["Azure Container Service"],
+        "Serverless" : ["Azure Functions", "GCP Cloud Functions"],
+        "PaaS" : ["Azure App Service", "Heroku", "Netlify", "GitHub Pages", "Deta.sh"],
+        "Continuous Deployment" : ["GitHub Actions"]
+        },
+      "Testing" : {
+        "API Testing" : ["JMeter", "Postman"],
+        "Continuous Integeration" : ["GitHub Actions", "Circle CI", "Travis CI"]
+        }
+      }
 ```
