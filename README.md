@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-_Senior Year Student at Kurukshetra University_
+
+<p><em>Software Engineer at <a href="https://www.prepladder.com/">PrepLadder</a> </em></p>
+<p><em>Senior Year Student at <a href="https://uietkuk.ac.in/">Kurukshetra University</a> </em></p>
 
 
 <a href="https://twitter.com/_mercurybuddy">
@@ -33,7 +35,8 @@ _Senior Year Student at Kurukshetra University_
   <img align="left" alt="Himanshu's DEV Blog" height="27px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### 
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <img align="right" width="300" src="./icon.png">
 
@@ -60,4 +63,17 @@ class aboutme:
         "Continuous Integeration" : ["GitHub Actions", "Circle CI", "Travis CI"]
         }
       }
+    self.misc = ["Firebase", "NGNIX", "Let's Encrypt"]
+  def communities(self):
+    self.present = {
+      "Mentor" : "DSC UIET",
+      "Volunteer" : "WWF India"
+      }
+    self.past = {
+      "Mentor" : "The Uplift Project by GS Foundation"
+      }
+  def misc(self):
+    self.askMeAbout = ["DevOps", "Machine Learning", "Open Source"]
+    self.needHelpWith = ["GraphQL"]
+    
 ```
