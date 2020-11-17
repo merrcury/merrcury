@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### 
 
-<img align="right" width="300" src="./icon.png">
+
 
 ``` python3
 class aboutme:
