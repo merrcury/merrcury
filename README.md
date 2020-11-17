@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><em>Software Engineer at <a href="https://www.prepladder.com/">PrepLadder</a> </em></p>
+<p><em>Machine Learning Intern at <a href="https://www.prepladder.com/">PrepLadder</a> </em></p>
 <p><em>Senior Year Student at <a href="https://uietkuk.ac.in/">Kurukshetra University</a> </em></p>
 
 
