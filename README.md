@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><em>Machine Learning Intern at <a href="https://www.prepladder.com/">PrepLadder</a> </em></p>
+<p><em>Machine Learning Intern at <a href="https://www.prepladder.com/">PrepLadder</a>(Unacademy Group).</em></p>
 <p><em>Senior Year Student at <a href="https://uietkuk.ac.in/">Kurukshetra University</a> </em></p>
 
 
@@ -64,7 +64,7 @@ class aboutme:
         "Continuous Integeration" : ["GitHub Actions", "Circle CI", "Travis CI"]
         }
       }
-    self.misc = ["Firebase", "NGNIX", "Let's Encrypt"]
+    self.misc = ["Firebase", "NGNIX", "Let's Encrypt", "Figma"]
   def communities(self):
     self.present = {
       "Mentor" : "DSC UIET",
