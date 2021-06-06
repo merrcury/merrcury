@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p><em>Machine Learning Intern at <a href="https://www.prepladder.com/">PrepLadder</a>(Unacademy Group).</em></p>
-<p><em>Senior Year Student at <a href="https://uietkuk.ac.in/">Kurukshetra University</a> </em></p>
+<p><em>Future Maintainer Awardee'21 by <a href="https://www.github.com/github">GitHub</a></em><p>
 
 
 <a href="https://twitter.com/_mercurybuddy">
