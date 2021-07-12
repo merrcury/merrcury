@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p><em>Machine Learning Intern at <a href="https://www.prepladder.com/">PrepLadder</a>(Unacademy Group).</em></p>
+<p><em>Machine Learning Engineer at <a href="https://www.prepladder.com/">PrepLadder</a>(Unacademy Group).</em></p>
 <p><em>Future Maintainer Awardee'21 by <a href="https://www.github.com/github">GitHub</a></em><p>
 
 
@@ -48,15 +48,15 @@ class aboutme:
     self.nickname = "Mercury"
     self.pronouns = ("He", "Him")
   def stack(self):
-    self.languages = ["Python 3", "Bash", "NoSQL"]
+    self.languages = ["Python 3", "JavaScript", "Bash", "NoSQL"]
     self.tools = ["Docker", "GIT", "JMeter", "Unity 3D", "Vuforia Engine"]
     self.DevOps = {
       "Deployment" : {
         "Virtual Machines" : ["Azure Virtual Machine", "Digital Ocean Droplets", 
                                          "Google Compute Engine", "Amazon EC2"],
         "Container Service" : ["Azure Container Service"],
-        "Serverless" : ["Azure Functions", "GCP Cloud Functions"],
-        "PaaS" : ["Azure App Service", "Heroku", "Netlify", "GitHub Pages", "Deta.sh"],
+        "Serverless" : ["Azure Functions", "AWS Lambda", "GCP Cloud Functions"],
+        "PaaS" : ["Azure App Service", "Heroku", "Netlify", "GitHub Pages"],
         "Continuous Deployment" : ["GitHub Actions"]
         },
       "Testing" : {
@@ -65,16 +65,17 @@ class aboutme:
         }
       }
     self.misc = ["Firebase", "NGNIX", "Let's Encrypt", "Figma"]
+  def founder(self):
+    self.opensource: "Resuminator"
+    self.newsletter: "Broadmap"
   def communities(self):
     self.present = {
       "Mentor" : "DSC UIET",
-      "Volunteer" : "WWF India"
       }
     self.past = {
+      "Volunteer" : "WWF (World Wide Fund for Nature) India"
       "Mentor" : "The Uplift Project by GS Foundation"
       }
   def misc(self):
-    self.askMeAbout = ["DevOps", "Machine Learning", "Open Source"]
-    self.needHelpWith = ["GraphQL"]
-    
+    self.askMeAbout = ["Machine Learning", "DevOps", "Open Source"]
 ```
