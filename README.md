@@ -1,81 +1,9 @@
-### Hi, I'm Himanshu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Himanshu Garg
 
-<!--
-**merrcury/merrcury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As of February 2022:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p><em>Machine Learning Engineer at <a href="https://www.prepladder.com/">PrepLadder</a>(Unacademy Group).</em></p>
-<p><em>Future Maintainer Awardee'21 by <a href="https://www.github.com/github">GitHub</a></em><p>
-
-
-<a href="https://twitter.com/_mercurybuddy">
-  <img align="left" alt="Himanshu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/garg-himanshu/">
-  <img align="left" alt="Himanshu's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://t.me/mercurybuddy">
-  <img align="left" alt="Himanshu's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/_mercurybuddy/">
-  <img align="left" alt="Himanshu's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://dev.to/mercury">
-  <img align="left" alt="Himanshu's DEV Blog" height="27px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
-<p> .. </p
-
-
-### 
-
-
-
-``` python3
-class aboutme:
-  def __init__(self):
-    self.name = "Himanshu Garg"
-    self.nickname = "Mercury"
-    self.pronouns = ("He", "Him")
-  def stack(self):
-    self.languages = ["Python 3", "JavaScript", "Bash", "NoSQL"]
-    self.tools = ["Docker", "GIT", "JMeter", "Unity 3D", "Vuforia Engine"]
-    self.DevOps = {
-      "Deployment" : {
-        "Virtual Machines" : ["Azure Virtual Machine", "Digital Ocean Droplets", 
-                                         "Google Compute Engine", "Amazon EC2"],
-        "Container Service" : ["Azure Container Service"],
-        "Serverless" : ["Azure Functions", "AWS Lambda", "GCP Cloud Functions"],
-        "PaaS" : ["Azure App Service", "Heroku", "Netlify", "GitHub Pages"],
-        "Continuous Deployment" : ["GitHub Actions"]
-        },
-      "Testing" : {
-        "API Testing" : ["JMeter", "Postman"],
-        "Continuous Integeration" : ["GitHub Actions", "Circle CI", "Travis CI"]
-        }
-      }
-    self.misc = ["Firebase", "NGNIX", "Let's Encrypt", "Figma"]
-  def founder(self):
-    self.opensource: "Resuminator"
-    self.newsletter: "Broadmap"
-  def communities(self):
-    self.present = {
-      "Mentor" : "DSC UIET",
-      }
-    self.past = {
-      "Volunteer" : "WWF (World Wide Fund for Nature) India"
-      "Mentor" : "The Uplift Project by GS Foundation"
-      }
-  def misc(self):
-    self.askMeAbout = ["Machine Learning", "DevOps", "Open Source"]
-```
+- 🔭 I’m currently working as a Software Engineer at [Rocketium](https://www.rocketium.com/).
+- 🌱 I’m currently learning ReactJS.  
+- 💬 Ask me about: System Design, Python, Backend, Cloud, etc.
+- 📫 How to reach me: [✉️](mailto:himanshu@resuminator.in) or [📱](https://www.linkedin.com/in/garg-himanshu/)  or [🐦](https://wwww.twitter.com/_mercurybuddy)
+- 😄 Pronouns: He/Him/His
